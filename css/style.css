@@ -1,0 +1,9 @@
+body {
+    background: rgb(223, 223, 230);
+    padding: 0;
+}
+.wrapper {
+    font-size: 80px;
+    background: rgb(178, 178, 204);
+    margin: 0;
+}
